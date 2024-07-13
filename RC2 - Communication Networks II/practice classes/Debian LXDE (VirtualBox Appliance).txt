@@ -1,0 +1,6 @@
+Debian LXDE (VirtualBox Appliance)
+Username/Password: labcom/labcom
+
+VirtualBox version > 5.1
+
+https://uapt33090-my.sharepoint.com/:u:/g/personal/salvador_ua_pt/ES-4iT1xkfxKu-nKDA3tZCQB4CsKz1z-MKh_69uoNSYY-w
