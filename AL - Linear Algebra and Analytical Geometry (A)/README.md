@@ -1,4 +1,4 @@
-Welcome to "Linear Algebra and Analytical Geometry - A"
+### Welcome to "Linear Algebra and Analytical Geometry - A"
 
 "Linear Algebra and Analytical Geometry - A" is a course in the Licenciatura em Engenharia de Computadores e Informática at the Universidade de Aveiro. This course aims to develop fundamental skills in algebraic calculations, problem formulation and resolution in algebra, and the use of vector and matrix techniques in applications.
 
